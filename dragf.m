@@ -1,7 +1,7 @@
 function [Fd] = dragf(fa,rho,v,Cd)
 
 
-%find frontal area m^2
+%find frontal area m^2 
 %person_fa=0.6194;
 %Bike_fa=0.5565;
 %fa=Car's frontal area;
